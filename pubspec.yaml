@@ -8,7 +8,7 @@ dependencies:
   flutter:
     sdk: flutter
   ffi: ^2.1.0
-  uuid: ^4.2.2
+  uuid: ^4.4.0
   flutter_plugin_android_lifecycle: ^2.0.16
   meta: ^1.9.1
 dev_dependencies:
